@@ -22,6 +22,8 @@ A simple and responsive web application that generates QR codes from user input.
 
 ---
 
+## Live Demo : https://mjqrcode.vercel.app/
+
 ## 📦 Installation
 
 1. **Clone the repository:**
